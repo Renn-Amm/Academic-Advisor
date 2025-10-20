@@ -1,0 +1,403 @@
+{
+  "daily_conversations": [
+    {
+      "category": "greetings",
+      "patterns": ["hello", "hi", "hey", "good morning", "good afternoon", "good evening", "how are you"],
+      "responses": [
+        "Hello! I'm your AI Academic Advisor at Harbour.Space. How can I help you today?",
+        "Hi there! Ready to explore courses and plan your academic journey?",
+        "Good day! I'm here to help you with courses, schedules, career advice, and more. What would you like to know?"
+      ]
+    },
+    {
+      "category": "general_queries",
+      "patterns": ["what can you do", "help", "what are you", "who are you"],
+      "responses": [
+        "I'm your AI Academic Advisor! I can help you with:\n• Finding the perfect courses\n• Understanding programs and majors\n• Planning your schedule\n• Providing career guidance\n• Answering questions about lecturers\n• Explaining tech concepts\n• Academic policies and requirements",
+        "I'm here to be your academic companion! Ask me about courses, schedules, career paths, tech topics, or any academic questions you have."
+      ]
+    },
+    {
+      "category": "thank_you",
+      "patterns": ["thanks", "thank you", "appreciate", "helpful"],
+      "responses": [
+        "You're welcome! Feel free to ask if you have more questions.",
+        "Happy to help! Let me know if there's anything else you need.",
+        "Glad I could assist! Don't hesitate to reach out anytime."
+      ]
+    }
+  ],
+  
+  "tech_topics": {
+    "computer_science": {
+      "description": "Computer Science is the study of computation, algorithms, data structures, and the theory of computing. It encompasses both theoretical foundations and practical applications of computing technology.",
+      "key_areas": [
+        "Programming and Software Development",
+        "Algorithms and Data Structures",
+        "Computer Architecture",
+        "Operating Systems",
+        "Database Systems",
+        "Networks and Security",
+        "Artificial Intelligence and Machine Learning",
+        "Software Engineering"
+      ],
+      "career_paths": [
+        "Software Engineer",
+        "Systems Architect",
+        "DevOps Engineer",
+        "Backend Developer",
+        "Full-Stack Developer",
+        "Research Scientist"
+      ],
+      "skills_to_learn": [
+        "Python, Java, C++",
+        "Data Structures and Algorithms",
+        "System Design",
+        "Git and Version Control",
+        "Testing and Debugging",
+        "Cloud Computing (AWS, Azure, GCP)"
+      ]
+    },
+    
+    "data_science": {
+      "description": "Data Science combines statistics, programming, and domain expertise to extract insights from data. It involves collecting, processing, analyzing, and visualizing data to support decision-making.",
+      "key_areas": [
+        "Statistical Analysis",
+        "Machine Learning",
+        "Data Mining",
+        "Data Visualization",
+        "Big Data Technologies",
+        "Predictive Modeling",
+        "Deep Learning"
+      ],
+      "career_paths": [
+        "Data Scientist",
+        "Data Analyst",
+        "Machine Learning Engineer",
+        "Business Intelligence Analyst",
+        "Data Engineer",
+        "Research Scientist"
+      ],
+      "skills_to_learn": [
+        "Python (pandas, numpy, scikit-learn)",
+        "R Programming",
+        "SQL and NoSQL databases",
+        "Tableau, Power BI",
+        "Statistics and Probability",
+        "Machine Learning Algorithms",
+        "Deep Learning (TensorFlow, PyTorch)"
+      ]
+    },
+    
+    "machine_learning": {
+      "description": "Machine Learning is a subset of AI that enables computers to learn from data without explicit programming. It uses algorithms to identify patterns and make predictions.",
+      "key_concepts": [
+        "Supervised Learning (Classification, Regression)",
+        "Unsupervised Learning (Clustering, Dimensionality Reduction)",
+        "Reinforcement Learning",
+        "Neural Networks",
+        "Feature Engineering",
+        "Model Evaluation and Validation"
+      ],
+      "popular_algorithms": [
+        "Linear Regression",
+        "Logistic Regression",
+        "Decision Trees and Random Forests",
+        "Support Vector Machines (SVM)",
+        "K-Means Clustering",
+        "Neural Networks",
+        "Gradient Boosting (XGBoost, LightGBM)"
+      ],
+      "applications": [
+        "Image Recognition",
+        "Natural Language Processing",
+        "Recommendation Systems",
+        "Fraud Detection",
+        "Predictive Maintenance",
+        "Autonomous Vehicles"
+      ]
+    },
+    
+    "artificial_intelligence": {
+      "description": "AI is the simulation of human intelligence in machines. It encompasses various techniques including machine learning, natural language processing, computer vision, and robotics.",
+      "subfields": [
+        "Machine Learning and Deep Learning",
+        "Natural Language Processing (NLP)",
+        "Computer Vision",
+        "Robotics",
+        "Expert Systems",
+        "Speech Recognition"
+      ],
+      "current_trends": [
+        "Large Language Models (GPT, BERT)",
+        "Generative AI (DALL-E, Midjourney)",
+        "Reinforcement Learning",
+        "Edge AI",
+        "Explainable AI (XAI)",
+        "AI Ethics and Responsible AI"
+      ]
+    },
+    
+    "cybersecurity": {
+      "description": "Cybersecurity protects computer systems, networks, and data from digital attacks, unauthorized access, and damage.",
+      "key_areas": [
+        "Network Security",
+        "Application Security",
+        "Information Security",
+        "Cryptography",
+        "Ethical Hacking",
+        "Security Operations",
+        "Incident Response"
+      ],
+      "skills_needed": [
+        "Network protocols and architecture",
+        "Encryption and Cryptography",
+        "Penetration Testing",
+        "Security Tools (Wireshark, Metasploit, Nmap)",
+        "Linux/Unix systems",
+        "Security frameworks (NIST, ISO 27001)",
+        "Python for security automation"
+      ],
+      "certifications": [
+        "CompTIA Security+",
+        "CEH (Certified Ethical Hacker)",
+        "CISSP",
+        "OSCP",
+        "CISM"
+      ]
+    },
+    
+    "web_development": {
+      "description": "Web Development involves creating websites and web applications. It includes frontend (user interface), backend (server-side), and full-stack development.",
+      "frontend": {
+        "technologies": ["HTML", "CSS", "JavaScript", "React", "Vue.js", "Angular"],
+        "skills": ["Responsive Design", "UI/UX", "Accessibility", "Performance Optimization"]
+      },
+      "backend": {
+        "technologies": ["Node.js", "Python (Django, Flask)", "Java (Spring)", "PHP", "Ruby on Rails"],
+        "skills": ["RESTful APIs", "Database Design", "Authentication", "Server Management"]
+      },
+      "tools": ["Git", "Docker", "CI/CD", "Testing Frameworks", "Cloud Platforms"]
+    },
+    
+    "cloud_computing": {
+      "description": "Cloud Computing delivers computing services over the internet including servers, storage, databases, networking, and software.",
+      "platforms": [
+        "Amazon Web Services (AWS)",
+        "Microsoft Azure",
+        "Google Cloud Platform (GCP)",
+        "IBM Cloud",
+        "Oracle Cloud"
+      ],
+      "services": [
+        "IaaS (Infrastructure as a Service)",
+        "PaaS (Platform as a Service)",
+        "SaaS (Software as a Service)",
+        "Serverless Computing",
+        "Container Orchestration (Kubernetes)"
+      ],
+      "key_concepts": [
+        "Scalability and Elasticity",
+        "Load Balancing",
+        "Auto-scaling",
+        "Cloud Security",
+        "Cost Optimization"
+      ]
+    },
+    
+    "blockchain": {
+      "description": "Blockchain is a distributed ledger technology that records transactions across multiple computers securely and transparently.",
+      "concepts": [
+        "Decentralization",
+        "Cryptographic Hashing",
+        "Consensus Mechanisms (Proof of Work, Proof of Stake)",
+        "Smart Contracts",
+        "Distributed Ledger"
+      ],
+      "applications": [
+        "Cryptocurrencies (Bitcoin, Ethereum)",
+        "Decentralized Finance (DeFi)",
+        "NFTs (Non-Fungible Tokens)",
+        "Supply Chain Management",
+        "Digital Identity"
+      ]
+    },
+    
+    "mobile_development": {
+      "description": "Mobile Development focuses on creating applications for mobile devices like smartphones and tablets.",
+      "platforms": {
+        "iOS": ["Swift", "Objective-C", "SwiftUI"],
+        "Android": ["Kotlin", "Java", "Jetpack Compose"],
+        "Cross-platform": ["React Native", "Flutter", "Xamarin"]
+      },
+      "key_skills": [
+        "Mobile UI/UX Design",
+        "API Integration",
+        "Local Storage",
+        "Push Notifications",
+        "App Store Optimization"
+      ]
+    }
+  },
+  
+  "university_info": {
+    "about_harbour_space": {
+      "description": "Harbour.Space University is a leading innovative tech university offering cutting-edge programs in technology, design, and entrepreneurship.",
+      "unique_features": [
+        "Industry-integrated education",
+        "Module-based intensive learning (3 weeks per module)",
+        "International faculty from top companies",
+        "Practical, hands-on approach",
+        "Located in Barcelona and other global campuses"
+      ]
+    },
+    
+    "programs": {
+      "bachelor": {
+        "duration": "3 years",
+        "structure": "Module-based (3 weeks per module, ~12 modules/year)",
+        "available_majors": [
+          "Computer Science",
+          "Data Science",
+          "Cyber Security",
+          "Front-End Development",
+          "Interaction Design",
+          "Digital Marketing",
+          "High-Tech Entrepreneurship"
+        ]
+      },
+      "master": {
+        "duration": "1 year (intensive)",
+        "structure": "Full-time intensive program with capstone project",
+        "available_majors": [
+          "Computer Science",
+          "Data Science",
+          "Cyber Security",
+          "Digital Transformation",
+          "Product Management",
+          "Fintech",
+          "Applied Data and Computer Science"
+        ]
+      }
+    },
+    
+    "academic_policies": {
+      "attendance": {
+        "policy": "3 or more absences = AUTOMATIC FAIL (no exceptions)",
+        "late_policy": "Being 10 minutes late = 1 absence",
+        "applies_to": "All mandatory and secondary courses",
+        "audit_courses": "Flexible attendance, no strict requirements"
+      },
+      "course_types": {
+        "mandatory": {
+          "description": "Required courses for your degree",
+          "graded": true,
+          "attendance_required": true,
+          "counts_toward_degree": true
+        },
+        "secondary": {
+          "description": "Elective courses you can choose",
+          "graded": true,
+          "attendance_required": true,
+          "counts_toward_degree": true
+        },
+        "audit": {
+          "description": "Optional courses for learning only",
+          "graded": false,
+          "attendance_required": false,
+          "counts_toward_degree": false,
+          "note": "Great for exploring interests without GPA impact"
+        }
+      },
+      "timetable": {
+        "time_slots": [
+          "Morning: 9:00 AM - 12:20 PM",
+          "Afternoon: 1:00 PM - 4:20 PM",
+          "Evening: 5:00 PM - 8:20 PM"
+        ],
+        "conflict_rule": "Students CANNOT enroll in courses with the same time slot",
+        "note": "Always check for schedule conflicts before enrolling"
+      }
+    }
+  },
+  
+  "career_guidance": {
+    "software_engineer": {
+      "skills_needed": [
+        "Programming (Python, Java, JavaScript)",
+        "Data Structures and Algorithms",
+        "System Design",
+        "Version Control (Git)",
+        "Testing and Debugging",
+        "Cloud Platforms"
+      ],
+      "preparation_tips": [
+        "Build projects and contribute to open source",
+        "Practice coding problems on LeetCode, HackerRank",
+        "Learn system design fundamentals",
+        "Understand software development lifecycle",
+        "Network with professionals"
+      ]
+    },
+    "data_scientist": {
+      "skills_needed": [
+        "Python and R",
+        "Statistics and Mathematics",
+        "Machine Learning",
+        "SQL and Data Manipulation",
+        "Data Visualization",
+        "Communication Skills"
+      ],
+      "preparation_tips": [
+        "Work on real datasets (Kaggle competitions)",
+        "Build a portfolio of data projects",
+        "Learn statistical concepts deeply",
+        "Practice explaining insights to non-technical audiences",
+        "Stay updated with ML research"
+      ]
+    },
+    "cybersecurity_analyst": {
+      "skills_needed": [
+        "Network security fundamentals",
+        "Ethical hacking",
+        "Security tools and frameworks",
+        "Incident response",
+        "Risk assessment",
+        "Compliance and regulations"
+      ],
+      "preparation_tips": [
+        "Get security certifications (Security+, CEH)",
+        "Set up home lab for practice",
+        "Participate in CTF competitions",
+        "Stay updated on security threats",
+        "Understand compliance frameworks"
+      ]
+    }
+  },
+  
+  "study_tips": {
+    "general": [
+      "Create a consistent study schedule",
+      "Take breaks using Pomodoro technique",
+      "Practice active recall and spaced repetition",
+      "Form study groups for collaboration",
+      "Use office hours to clarify doubts",
+      "Review material within 24 hours of class"
+    ],
+    "programming": [
+      "Code daily, even if just for 30 minutes",
+      "Work on real projects, not just tutorials",
+      "Debug your own code before asking for help",
+      "Read other people's code",
+      "Comment your code for future reference",
+      "Learn to use debugging tools effectively"
+    ],
+    "mathematics": [
+      "Practice problems regularly",
+      "Understand concepts, don't just memorize",
+      "Work through proofs step by step",
+      "Use visual aids and diagrams",
+      "Teach concepts to others to solidify understanding"
+    ]
+  }
+}

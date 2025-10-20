@@ -1,0 +1,223 @@
+Program,Year,Skills,Category,Course,Credits
+"Computer Science",1,"Combinatorics, Graph Theory","Mathematical Foundations for Computer Science, Algorithms","Combinatorics and Graphs",5
+"Computer Science",1,"C++, OOP","Foundations of Programming","Foundations of Programming: C/C++",5
+"Computer Science",1,"Calculus","Mathematical Foundations for Computer Science, Algorithms","Calculus – 1",5
+"Computer Science",1,"Unix, Git","Foundations of Programming","Practical Unix",5
+"Computer Science",1,"Linear Algebra","Mathematical Foundations for Computer Science, Algorithms","Linear Algebra - 1",5
+"Computer Science",1,"Algorithms, Data Structures","Mathematical Foundations for Computer Science, Algorithms","Algorithms and Data Structures – 1",5
+"Computer Science",1,"Combinatorics, Graph Theory","Mathematical Foundations for Computer Science, Algorithms","Combinatorics and Graphs – 2",5
+"Computer Science",2,"Calculus","Mathematical Foundations for Computer Science, Algorithms","Calculus – 2",5
+"Computer Science",2,"Java, OOP","Foundations of Programming","Object-Oriented Programming: Java",5
+"Computer Science",2,"Algorithms, Data Structures","Mathematical Foundations for Computer Science, Algorithms","Algorithms and Data Structures – 2",5
+"Computer Science",2,"Linear Algebra","Mathematical Foundations for Computer Science, Algorithms","Linear Algebra - 2",5
+"Computer Science",2,"Python, OOP","Foundations of Programming","Object-Oriented Programming: Python",5
+"Computer Science",2,"Combinatorics, Graph Theory","Mathematical Foundations for Computer Science, Algorithms","Combinatorics and Graphs – 3",5
+"Computer Science",2,"C#, OOP","Foundations of Programming","Object-Oriented Programming: C#",5
+"Computer Science",2,"Algorithms, Data Structures","Mathematical Foundations for Computer Science, Algorithms","Algorithms and Data Structures – 3",5
+"Computer Science",2,"Calculus","Mathematical Foundations for Computer Science, Algorithms","Calculus – 3",5
+"Computer Science",2,"Project Development","Capstone Project","Capstone Project - 1",5
+"Computer Science",2,"Technical Knowledge","Seminars & Workshops","Seminars & Workshops - 1",2
+"Computer Science",3,"Algorithms, Data Structures","Mathematical Foundations for Computer Science, Algorithms","Algorithms and Data Structures – 4",5
+"Computer Science",3,"Linear Algebra, Geometry","Mathematical Foundations for Computer Science, Algorithms","Linear Algebra and Geometry of Computer Science",5
+"Computer Science",3,"Combinatorics, Graph Theory","Mathematical Foundations for Computer Science, Algorithms","Combinatorics and Graphs – 3",5
+"Computer Science",3,"Machine Learning","Foundations of Programming","Machine Learning – 1",5
+"Computer Science",3,"UI/UX Design","Foundations of Programming","Introduction to Interaction Design",5
+"Computer Science",3,"Probability","Mathematical Foundations for Computer Science, Algorithms","Probability Theory",5
+"Computer Science",3,"Statistics","Mathematical Foundations for Computer Science, Algorithms","Mathematical Statistics",5
+"Computer Science",3,"Robotics","Interdisciplinary Training","Introduction to Robotics",5
+"Computer Science",3,"Software Engineering","Programming","Software Development Process",5
+"Computer Science",3,"Genomics, Bioinformatics","Interdisciplinary Training","Computational Genomics",5
+"Computer Science",3,"Mobile Development","Programming","Mobile Application Development",5
+"Computer Science",3,"Project Management","Applications","Technical Project Management",5
+"Computer Science",3,"Bioinformatics","Interdisciplinary Training","Algorithms in Bioinformatics",5
+"Computer Science",3,"Data Visualization","Applications","Data Visualization",5
+"Computer Science",3,"Software Testing","Programming","Software Testing, Verification and Validation",5
+"Computer Science",3,"Team Collaboration","Communication & Interdisciplinary","Leadership and Group Dynamics",5
+"Computer Science",3,"Technical Writing, Documentation","Applications","Writing, Documentation, TeX, JavaDoc, Academic",5
+"Computer Science",3,"Numerical Methods","Mathematical Foundations for Computer Science","Numerical Methods",5
+"Computer Science",3,"Project Development","Capstone Project","Capstone Project - 3",8
+"Computer Science",3,"Technical Knowledge","Seminars & Workshops","Seminars & Workshops - 3",2
+"Data Science",1,"Combinatorics, Graph Theory","Mathematical Foundations for Computer Science, Algorithms","Combinatorics & Graphs - 1",5
+"Data Science",1,"C++, OOP","Foundations of Programming","Foundations of Programming: C/C++",5
+"Data Science",1,"Calculus","Mathematical Foundations for Computer Science, Algorithms","Calculus – 1",5
+"Data Science",1,"Mathematical Logic","Mathematical Foundations for Computer Science, Algorithms","Foundations of Mathematical Logic",5
+"Data Science",1,"Linear Algebra","Mathematical Foundations for Computer Science, Algorithms","Linear Algebra -1",5
+"Data Science",1,"Algorithms, Data Structures","Mathematical Foundations for Computer Science, Algorithms","Algorithms and Data Structures – 1",5
+"Data Science",1,"Combinatorics, Graph Theory","Mathematical Foundations for Computer Science, Algorithms","Combinatorics and Graphs - 2",5
+"Data Science",1,"Python, OOP","Foundations of Programming","Object Oriented Programming: Python",5
+"Data Science",1,"Calculus","Mathematical Foundations for Computer Science, Algorithms","Calculus – 2",5
+"Data Science",1,"Algorithms, Data Structures","Mathematical Foundations for Computer Science, Algorithms","Algorithms and Data Structures – 2",5
+"Data Science",1,"Linear Algebra","Mathematical Foundations for Computer Science, Algorithms","Linear Algebra -2",5
+"Data Science",2,"Statistics","Mathematical Foundations for Computer Science, Algorithms","Statistics - 1",5
+"Data Science",2,"Databases","Programming","Introduction to Databases",5
+"Data Science",2,"Probability","Mathematical Foundations for Computer Science, Algorithms","Probability Theory - 1",5
+"Data Science",2,"Machine Learning","Programming","Machine Learning - 1",5
+"Data Science",2,"Statistics","Mathematical Foundations for Computer Science, Algorithms","Statistics - 2",5
+"Data Science",2,"Project Development","Capstone Project","Capstone Project - 1",5
+"Data Science",2,"Technical Knowledge","Seminars & Workshops","Seminars & Workshops - 1",2
+"Data Science",3,"Statistics","Mathematical Foundations for Computer Science, Algorithms","Statistics - 3",5
+"Data Science",3,"Machine Learning","Applications","Machine Learning - 2",5
+"Data Science",3,"Big Data","Applications","Big Data",5
+"Data Science",3,"Image Analysis","Applications","Image Analysis",5
+"Data Science",3,"Text Mining","Applications","Text Mining",5
+"Data Science",3,"Software Engineering","Programming","Software Development Process",5
+"Data Science",3,"Genomics, Bioinformatics","Interdisciplinary Training","Computational Genomics",5
+"Data Science",3,"Project Management","Applications","Technical Project Management",5
+"Data Science",3,"Web Graphs","Applications","Web-graphs",5
+"Data Science",3,"Data Visualization","Applications","Data Visualization",5
+"Data Science",3,"Neural Networks","Applications","Neural Networks",5
+"Data Science",3,"Team Collaboration","Applications","Leadership and Group Dynamics",5
+"Data Science",3,"Technical Writing, Documentation","Applications","Writing, Documentation, TeX, JavaDoc, Academic",5
+"Data Science",3,"UI/UX Design","Interdisciplinary Training","Introduction to Interaction Design",5
+"Data Science",3,"Project Development","Capstone Project","Capstone Project - 3",8
+"Data Science",3,"Technical Knowledge","Seminars & Workshops","Seminars & Workshops - 3",2
+"Front-End Development",1,"Entrepreneurship","Product","From Zero to Hero",4
+"Front-End Development",1,"Python","Introduction to programming","Programming I",4
+"Front-End Development",1,"Algorithms","Introduction to programming","Algorithms",4
+"Front-End Development",1,"Web History","Introduction to programming","History of Web — From Present to Future",4
+"Front-End Development",1,"Shell, Git","Introduction to programming","Shell Basics and GIT as a Version-Control System",4
+"Front-End Development",1,"UI/UX Design","Introduction to interactive web design","Design I",4
+"Front-End Development",1,"JavaScript","Introduction to interactive web design","Programming II",4
+"Front-End Development",1,"UI/UX Design","Introduction to interactive web design","Design II",4
+"Front-End Development",1,"CSS","Introduction to interactive web design","CSS Foundation",4
+"Front-End Development",1,"Web Animation","Introduction to interactive web design","Animations and Motion on the Web",4
+"Front-End Development",2,"JavaScript","Advanced web programming","Programming III",4
+"Front-End Development",2,"Web Development Tools","Development as a career","Web Tooling and Modern Setup",4
+"Front-End Development",2,"Team Collaboration","Development as a career","Effective Teamwork Collaboration",4
+"Front-End Development",2,"Web Ethics","Development as a career","Ethics on the Web",4
+"Front-End Development",2,"Project Management, Agile","Development as a career","Project Management and Agile Methodologies",4
+"Front-End Development",2,"English","Development as a career","English for the Industry",4
+"Front-End Development",2,"Project Development","Year-end project","Client Project",8
+"Front-End Development",2,"Project Development","Year-end project","Personal Project",8
+"Front-End Development",3,"Design Patterns, OOP","Full stack development","Design Patterns",4
+"Front-End Development",3,"Backend Programming","Full stack development","Introduction to Backend Programming",4
+"Front-End Development",3,"API Development","Full stack development","Back-End API Development",4
+"Front-End Development",3,"DevOps","Full stack development","DevOps",4
+"Front-End Development",3,"React Native","Full stack development","React Native",4
+"Front-End Development",3,"Machine Learning","Emerging technologies","Introduction to Machine Learning",4
+"Front-End Development",3,"WebXR, VR/AR","Emerging technologies","WebXR",4
+"Front-End Development",3,"Math, Physics","Applied interactive programming","Applied Math and Physics",4
+"Front-End Development",3,"WebGL, 3D Modeling","Applied interactive programming","3D Modelling and WebGL",4
+"Front-End Development",3,"Progressive Web Apps","Applied interactive programming","Progressive WebApps",4
+"Front-End Development",3,"Project Development","Year-end project","Client Project",8
+"Front-End Development",3,"Project Development","Year-end project","Personal Project",8
+"Cyber Security",1,"Entrepreneurship","Leadership & Presentation Skills","From Zero to Hero",4
+"Cyber Security",1,"Mathematics","Mathematical Foundations for Computer Science","Basics of Mathematics",4
+"Cyber Security",1,"Set Theory, Logic","Mathematical Foundations for Computer Science","Mathematical Foundations of Computing",4
+"Cyber Security",1,"Combinatorics, Graph Theory","Mathematical Foundations for Computer Science","Combinatorics & Graphs",4
+"Cyber Security",1,"Calculus","Mathematical Foundations for Computer Science","Calculus – 1",4
+"Cyber Security",1,"Linear Algebra","Mathematical Foundations for Computer Science","Linear algebra",4
+"Cyber Security",1,"Probability","Mathematical Foundations for Computer Science","Probability and Counting",4
+"Cyber Security",1,"Statistics","Mathematical Foundations for Computer Science","Introduction to Statistics",4
+"Cyber Security",1,"Python","Programming, Algorithms & Tools","Introduction to Programming - 1: Python",4
+"Cyber Security",1,"Python","Programming, Algorithms & Tools","Introduction to Programming - 2: Python",4
+"Cyber Security",1,"Algorithms","Programming, Algorithms & Tools","Introduction to Algorithms",4
+"Cyber Security",1,"C, Computer Systems","Programming, Algorithms & Tools","Computer Organisation and Systems",4
+"Cyber Security",2,"Self-Management","Leadership & Presentation Skills","Fundamentals of self-management",4
+"Cyber Security",2,"Python","Programming, Algorithms & Tools","Object-Oriented Programming: Python",4
+"Cyber Security",2,"Statistics","Mathematical Foundations for Computer Science","Statistics",4
+"Cyber Security",2,"Probability","Mathematical Foundations for Computer Science","Probability Theory",4
+"Cyber Security",2,"Algorithms, Data Structures","Programming, Algorithms & Tools","Algorithms and Data Structures",4
+"Cyber Security",2,"Databases","Programming, Algorithms & Tools","Databases",4
+"Cyber Security",2,"Cryptography","Secure Software, Emerging Technology","Cryptography and Number Theory",4
+"Cyber Security",2,"Project Development","Capstone Project","Capstone Project - 1",4
+"Cyber Security",2,"Technical Knowledge","Seminars & Workshops","Seminars & Workshops - 1",2
+"Cyber Security",3,"Parallel Computing","Programming, Algorithms & Tools","Parallel and Distributed Computing",4
+"Cyber Security",3,"Software Engineering","Programming, Algorithms & Tools","Software Development Process",4
+"Cyber Security",3,"Secure Software Development","Secure Software, Emerging Technology","Secure Software Development",4
+"Cyber Security",3,"Linux, Security","Secure Software, Emerging Technology","Linux Administration & Security",4
+"Cyber Security",3,"Network Security","Secure Software, Emerging Technology","Security Analysis of Networked Objects",4
+"Cyber Security",3,"Computer Forensics","Secure Software, Emerging Technology","Computer Forensics",4
+"Cyber Security",3,"Penetration Testing, Ethical Hacking","Secure Software, Emerging Technology","Vulnerability Analysis, Penetration Testing, Ethical Hacking",4
+"Cyber Security",3,"Secure Software Development","Secure Software, Emerging Technology","Enterprise Information Systems",4
+"Cyber Security",3,"Cyber Threat Hunting","Secure Software, Emerging Technology","Security Operations Center and Cyber Threat Hunting",4
+"Cyber Security",3,"Presentation Skills","Leadership & Presentation Skills","Demo Day Bootcamp",4
+"Cyber Security",3,"Project Development","Capstone Project","Capstone - Working with Mentor(s)",8
+"Interaction Design",1,"Art History","Design Foundations","Art History",4
+"Interaction Design",1,"Design History","Design Foundations","History of Design",4
+"Interaction Design",1,"UI/UX Design","Design Foundations","Introduction to Interaction Design",4
+"Interaction Design",1,"Sketching, Storyboarding","Interaction Foundations","Sketching Design Ideas & Creating Concepts",4
+"Interaction Design",1,"Empathetic Design","Interaction Foundations","Empathetic Design",4
+"Interaction Design",1,"Programming","Interaction Foundations","Introduction to Programming for Designers I",4
+"Interaction Design",1,"Programming","Interaction Foundations","Introduction to Programming for Designers II",4
+"Interaction Design",1,"Team Collaboration","Design as a Practice","Leadership & Group Dynamics",4
+"Interaction Design",1,"Business Skills","Design as a Practice","Design as a Job",4
+"Interaction Design",1,"English","Design as a Practice","English for the Industry",4
+"Interaction Design",2,"Typography","Design Foundations","Typography",4
+"Interaction Design",2,"Motion Graphics","Design Foundations","Motion Graphics",4
+"Interaction Design",2,"Design Systems","Design Foundations","Design Systems",4
+"Interaction Design",2,"UI/UX Design","Interaction Foundations","Advanced Interaction Design",4
+"Interaction Design",2,"Prototyping","Interaction Foundations","Prototyping",4
+"Interaction Design",2,"Cybernetics","Interaction Foundations","Cybernetics",4
+"Interaction Design",2,"Project Development","Year-End Project","Client Project",8
+"Interaction Design",2,"Project Development","Year-End Project","Personal Project",8
+"Interaction Design",3,"Physical Computing","Smart Design","Physical Computing",4
+"Interaction Design",3,"Data Visualization","Smart Design","Data Visualisation",4
+"Interaction Design",3,"Statistics, Data Analysis","Smart Design","Working with Data",4
+"Interaction Design",3,"Mobile Design","Smart Design","Designing for Mobile",4
+"Interaction Design",3,"Emerging Technologies","Smart Design","Emerging Technologies",4
+"Interaction Design",3,"Design Management","Business of Design","Design Management",4
+"Interaction Design",3,"Presentation Skills","Business of Design","Selling & Presenting Design",4
+"Interaction Design",3,"Entrepreneurship","Business of Design","Business, Entrepreneurship & Self Promotion",4
+"Interaction Design",3,"Patent Law","Business of Design","Patent Law & Strategy",4
+"Interaction Design",3,"Technical Knowledge","Seminars & Workshops","Seminars & Workshops",8
+"Interaction Design",3,"Project Development","Year-End Project","Client Project",8
+"Interaction Design",3,"Project Development","Year-End Project","Personal Project",8
+"High-Tech Entrepreneurship",1,"Entrepreneurship","Product","From Zero to Hero",4
+"High-Tech Entrepreneurship",1,"Product Development","Product","Digital Product Development",4
+"High-Tech Entrepreneurship",1,"Design Thinking","Product","Design Thinking",4
+"High-Tech Entrepreneurship",1,"Market Research","Sales","Needs Finding and Concept Creation",4
+"High-Tech Entrepreneurship",1,"Lean Startup","Product","Lean Startup",4
+"High-Tech Entrepreneurship",1,"Startup Launch","Product","The Startup Garage: Testing and Launch",4
+"High-Tech Entrepreneurship",1,"IP Strategy","Product","Startup Company Legal Environment",4
+"High-Tech Entrepreneurship",1,"Startup Ecosystems","Product","Startup Ecosystems",4
+"High-Tech Entrepreneurship",2,"Customer Development","Sales","Customer Development",4
+"High-Tech Entrepreneurship",2,"Entrepreneurship","Product","Entrepreneurial Strategy",4
+"High-Tech Entrepreneurship",2,"Market Research","Sales","Market Validation",4
+"High-Tech Entrepreneurship",2,"Sales Strategy","Sales","Go-To-Market Strategies",4
+"High-Tech Entrepreneurship",2,"Project Development","Year-End Project","Capstone Project - 1",4
+"High-Tech Entrepreneurship",2,"Technical Knowledge","Seminars & Workshops","Seminars & Workshops - 1",4
+"High-Tech Entrepreneurship",3,"Product Management","Company","Product Management",4
+"High-Tech Entrepreneurship",3,"Sales Strategy","Company","Building and Managing Professional Sales Organizations",4
+"High-Tech Entrepreneurship",3,"Conflict Resolution","Company","Interpersonal Dynamics and Conflict Resolution",4
+"High-Tech Entrepreneurship",3,"Global Value Chains","Company","Global Value Chain Strategies",4
+"High-Tech Entrepreneurship",3,"Innovation Management","Company","Strategic Management of Technology and Innovation",4
+"High-Tech Entrepreneurship",3,"Leadership","Leadership & Interdisciplinary Collaboration","Leading Strategic Change",4
+"High-Tech Entrepreneurship",3,"Motivation","Leadership & Interdisciplinary Collaboration","Motivation in Startups",4
+"High-Tech Entrepreneurship",3,"Entrepreneurship","Leadership & Interdisciplinary Collaboration","Entrepreneurship from the Perspectives of Women",4
+"High-Tech Entrepreneurship",3,"Market Analysis","Leadership & Interdisciplinary Collaboration","New Business Models in the Emerging Markets",4
+"High-Tech Entrepreneurship",3,"Web Scraping, Programming","Leadership & Interdisciplinary Collaboration","Web Scraping for fun and Profit",4
+"High-Tech Entrepreneurship",3,"Market Analysis","Leadership & Interdisciplinary Collaboration","China's Internet Market",4
+"High-Tech Entrepreneurship",3,"Data Visualization","Applications & Emerging Technology","Data Visualisation",4
+"High-Tech Entrepreneurship",3,"Project Development","Year-End Project","Capstone Project",4
+"Digital Marketing",1,"Digital Media","Evolution of Marketing","Digital Media Evolution",4
+"Digital Marketing",1,"Business Management","Managerial Foundations","Business Fundamentals",4
+"Digital Marketing",1,"Business Strategy","Managerial Foundations","Competitive Firm Strategies",4
+"Digital Marketing",1,"Marketing","Foundations of Marketing","Marketing Fundamentals",4
+"Digital Marketing",1,"Macroeconomics","Economics & Statistics","Macroeconomics",4
+"Digital Marketing",1,"Microeconomics","Economics & Statistics","Microeconomics",4
+"Digital Marketing",1,"Consumer Behavior","Foundations of Marketing","Consumer Behaviour",4
+"Digital Marketing",1,"Statistics","Economics & Statistics","Introduction to Statistical Methods",4
+"Digital Marketing",2,"SEO, SEM","Instruments of Digital Marketing Strategy","SEO & SEM",4
+"Digital Marketing",2,"Social Media","Instruments of Digital Marketing Strategy","Social Media",4
+"Digital Marketing",2,"Analytics","Planning & Analysing Digital Campaigns","Analytics for Digital Marketing",4
+"Digital Marketing",2,"Branding","Foundations of Marketing","Branding",4
+"Digital Marketing",2,"Content Marketing","Instruments of Digital Marketing Strategy","Content Marketing",4
+"Digital Marketing",2,"Programming","Applications & Emerging Technology (Electives)","Introduction to Programming for Marketing Professionals I",4
+"Digital Marketing",2,"Project Development","Year-End Project","Capstone Project-1",4
+"Digital Marketing",2,"Technical Knowledge","Year-End Project","Seminars & Workshops-1",4
+"Digital Marketing",3,"Mobile Marketing","Instruments of Digital Marketing Strategy","Mobile Marketing",4
+"Digital Marketing",3,"Email Marketing","Instruments of Digital Marketing Strategy","Email Marketing",4
+"Digital Marketing",3,"CRM","Instruments of Digital Marketing Strategy","Customer Relationship Management (CRM)",4
+"Digital Marketing",3,"Gamification","Instruments of Digital Marketing Strategy","Gamification",4
+"Digital Marketing",3,"Video Marketing","Instruments of Digital Marketing Strategy","Online Video",4
+"Digital Marketing",3,"Media Planning","Planning & Analysing Digital Campaigns","Digital Media Planning",4
+"Digital Marketing",3,"Digital Strategy","Digital Marketing Strategy","Digital Strategy",4
+"Digital Marketing",3,"IP Law","Business & Patent Law","Virtual Company Legal Environment",4
+"Digital Marketing",3,"Presentation Skills","Communication, Leadership & Interdisciplinary Collaboration (Electives)","Selling & Presenting",4
+"Digital Marketing",3,"Entrepreneurship","Communication, Leadership & Interdisciplinary Collaboration (Electives)","Business, Entrepreneurship & Self Promotion",4
+"Digital Marketing",3,"UI/UX Design","Communication, Leadership & Interdisciplinary Collaboration (Electives)","User Experience Design",4
+"Digital Marketing",3,"Market Analysis","Applications & Emerging Technology (Electives)","China's Internet Market",4
+"Digital Marketing",3,"Programming","Applications & Emerging Technology (Electives)","Programming II For Marketing Professionals",4
+"Digital Marketing",3,"Project Development","Year-End Project","Capstone Project-3",8
+"Digital Marketing",3,"Technical Knowledge","Year-End Project","Seminars & Workshops-3",4

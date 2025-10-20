@@ -1,0 +1,32 @@
+scraper:
+  base_url: "https://harbour.space"
+  timeout: 15
+  delay_between_requests: 2
+  max_retries: 3
+  
+  program_urls:
+    - "https://harbour.space/bachelors"
+    - "https://harbour.space/masters" 
+    - "https://harbour.space/part-time-masters"
+    - "https://harbour.space/barcelona/single-courses"
+    - "https://harbour.space/barcelona/foundation"
+  
+  course_urls:
+    - "https://harbour.space/computer-science"
+    - "https://harbour.space/front-end-development"
+    - "https://harbour.space/data-science"
+    - "https://harbour.space/cyber-security"
+    - "https://harbour.space/barcelona/master/product-management"
+    - "https://join.harbour.space/bachelors/business-administration"
+    - "https://harbour.space/high-tech-entrepreneurship"
+    - "https://harbour.space/interaction-design"
+    - "https://harbour.space/digital-marketing"
+    - "https://harbour.space/barcelona/master/fintech"
+    - "https://harbour.space/barcelona/master/digital-transformation"
+    - "https://harbour.space/barcelona/master/applied-data-and-computer-science"
+
+data_processing:
+  output_dir: "data/processed"
+  raw_dir: "data/raw"
+  generate_sample_data: true
+  sample_size: 50

@@ -1,0 +1,208 @@
+Program,Year,Skills,Category,Course,Credits
+Digital Transformation,1,Entrepreneurship,Product,From Zero to Hero,4
+Digital Transformation,1,Product Development,Product,Digital Product Development,4
+Digital Transformation,1,Design Thinking,Product,Design Thinking,4
+Digital Transformation,1,Lean Startup,Product,Lean Startup,4
+Digital Transformation,1,Startup Launch,Product,The Startup Garage: Testing and Launch,4
+Digital Transformation,1,Legal,Product,Startup Company Legal Environment,4
+Digital Transformation,1,Technology Commercialization,Product,Technology Assessment and Commercialisation,4
+Digital Transformation,1,Prototyping,Product,Prototyping,4
+Digital Transformation,1,Business Modeling,Product,Business Model Design and Testing,4
+Digital Transformation,1,Collaboration,Product,Interdisciplinary Collaboration,4
+Digital Transformation,1,Emerging Technologies,Product,Applications and Emerging Technologies,4
+Digital Transformation,1,Pitching,Business,Pitching to Investors,4
+Digital Transformation,1,Project Management,Client Project,Final Capstone Project (TFM),8
+Product Management,1,Entrepreneurship,Product,From Zero to Hero,4
+Product Management,1,Product Development,Product,Digital Product Development,4
+Product Management,1,Design Thinking,Product,Design Thinking,4
+Product Management,1,Lean Startup,Product,Lean Startup,4
+Product Management,1,Startup Launch,Product,The Startup Garage: Testing and Launch,4
+Product Management,1,Legal,Product,Startup Company Legal Environment,4
+Product Management,1,Technology Commercialization,Product,Technology Assessment and Commercialisation,4
+Product Management,1,Prototyping,Product,Prototyping,4
+Product Management,1,Business Modeling,Product,Business Model Design and Testing,4
+Product Management,1,Collaboration,Product,Interdisciplinary Collaboration,4
+Product Management,1,Emerging Technologies,Product,Applications and Emerging Technologies,4
+Product Management,1,Product Management,Business,Product Management as a Job,4
+Fintech,1,Entrepreneurship,Product,From Zero to Hero,4
+Fintech,1,Product Development,Product,Digital Product Development,4
+Fintech,1,Design Thinking,Product,Design Thinking,4
+Fintech,1,Lean Startup,Product,Lean Startup,4
+Fintech,1,Startup Launch,Product,The Startup Garage: Testing and Launch,4
+Fintech,1,Legal,Product,Startup Company Legal Environment,4
+Fintech,1,Technology Commercialization,Product,Technology Assessment and Commercialisation,4
+Fintech,1,Prototyping,Product,Prototyping,4
+Fintech,1,Business Modeling,Product,Business Model Design and Testing,4
+Fintech,1,Collaboration,Product,Interdisciplinary Collaboration,4
+Fintech,1,Emerging Technologies,Product,Applications and Emerging Technologies,4
+Fintech,1,Professional Development,Seminars & Workshops,Seminars & Workshops,6
+Fintech,1,Project Management,Year End Project,Client project,8
+Digital Marketing,1,Entrepreneurship,Product,From Zero to Hero,4
+Digital Marketing,1,Product Development,Product,Digital Product Development,4
+Digital Marketing,1,Design Thinking,Product,Design Thinking,4
+Digital Marketing,1,Lean Startup,Product,Lean Startup,4
+Digital Marketing,1,Startup Launch,Product,The Startup Garage: Testing and Launch,4
+Digital Marketing,1,Legal,Product,Startup Company Legal Environment,4
+Digital Marketing,1,Technology Commercialization,Product,Technology Assessment and Commercialisation,4
+Digital Marketing,1,Prototyping,Product,Prototyping,4
+Digital Marketing,1,Business Modeling,Product,Business Model Design and Testing,4
+Digital Marketing,1,Collaboration,Product,Interdisciplinary Collaboration,4
+Digital Marketing,1,Emerging Technologies,Product,Applications and Emerging Technologies,4
+Digital Marketing,1,Project Management,Capstone Project,Capstone Project - 1,8
+Digital Marketing,1,Professional Development,Seminars & Workshops,Seminars & Workshops,6
+Digital Marketing,1,Project Management,Year End Project,Client Project,8
+High-Tech Entrepreneurship,1,Entrepreneurship,Product,From Zero to Hero,4
+High-Tech Entrepreneurship,1,Product Development,Product,Digital Product Development,4
+High-Tech Entrepreneurship,1,Design Thinking,Product,Design Thinking,4
+High-Tech Entrepreneurship,1,Lean Startup,Product,Lean Startup,4
+High-Tech Entrepreneurship,1,Startup Launch,Product,The Startup Garage: Testing and Launch,4
+High-Tech Entrepreneurship,1,Legal,Product,Startup Company Legal Environment,4
+High-Tech Entrepreneurship,1,Technology Commercialization,Product,Technology Assessment and Commercialisation,4
+High-Tech Entrepreneurship,1,Prototyping,Product,Prototyping,4
+High-Tech Entrepreneurship,1,Business Modeling,Product,Business Model Design and Testing,4
+High-Tech Entrepreneurship,1,Collaboration,Product,Interdisciplinary Collaboration,4
+High-Tech Entrepreneurship,1,Emerging Technologies,Product,Applications and Emerging Technologies,4
+High-Tech Entrepreneurship,1,Collaboration,Interdisciplinary Collaboration,Seminars & Workshops,4
+High-Tech Entrepreneurship,1,Project Management,Year End Project,Capstone Project - Demo Day,4
+Interaction Design,1,Art History,Design Foundations,Art History,4
+Interaction Design,1,Design History,Design Foundations,History of Design,4
+Interaction Design,1,Interaction Design,Design Foundations,Introduction to Interaction Design,4
+Interaction Design,1,Sketching,Interaction Foundations,Sketching Design Ideas & Creating Concepts,4
+Interaction Design,1,Empathetic Design,Interaction Foundations,Empathetic Design,4
+Interaction Design,1,Programming,Interaction Foundations,Introduction to Programming for Designers I,4
+Interaction Design,1,Programming,Interaction Foundations,Introduction to Programming for Designers II,4
+Interaction Design,1,Leadership,Design as a Practice,Leadership & Group Dynamics,4
+Interaction Design,1,Design Practice,Design as a Practice,Design as a Job,4
+Interaction Design,1,English,Design as a Practice,English for the Industry,4
+Interaction Design,1,Project Management,Year-End Project,Personal Project,4
+Interaction Design,1,Physical Computing,Smart Design,Physical Computing,4
+Interaction Design,1,Data Visualization,Smart Design,Data Visualisation,4
+Interaction Design,1,Data Analysis,Smart Design,Working with Data,4
+Interaction Design,1,Mobile Design,Smart Design,Designing for Mobile,4
+Interaction Design,1,Emerging Technologies,Smart Design,Emerging Technologies,4
+Interaction Design,1,Design Management,Business of Design,Design Management,4
+Interaction Design,1,Presentation Skills,Business of Design,Selling & Presenting Design,4
+Interaction Design,1,Entrepreneurship,Business of Design,Business Entrepreneurship & Self Promotion,4
+Interaction Design,1,Patent Law,Business of Design,Patent Law & Strategy,4
+Interaction Design,1,Professional Development,Seminars & Workshops,Seminars & Workshops,4
+Interaction Design,1,Project Management,Year-End Project,Client Project,8
+Interaction Design,1,Project Management,Year-End Project,Personal Project,8
+Applied Data and Computer Science,1,Entrepreneurship,CORE,From Zero to Hero,4
+Applied Data and Computer Science,1,Combinatorics,CORE,Combinatorics & Graphs,4
+Applied Data and Computer Science,1,C/C++,CORE,Foundations of Programming: C/C++,4
+Applied Data and Computer Science,1,Calculus,CORE,Calculus – 1,4
+Applied Data and Computer Science,1,Unix,CORE,Practical Unix,4
+Applied Data and Computer Science,1,Linear Algebra,CORE,Linear Algebra - 1,4
+Applied Data and Computer Science,1,Algorithms,CORE,Algorithms and Data Structures – 1,4
+Applied Data and Computer Science,1,Combinatorics,CORE,Combinatorics and Graphs – 2,4
+Applied Data and Computer Science,1,Python,CORE,Object Oriented Programming: Python,4
+Applied Data and Computer Science,1,Calculus,CORE,Calculus – 2,4
+Applied Data and Computer Science,1,Algorithms,CORE,Algorithms and Data Structures – 2,4
+Applied Data and Computer Science,1,Linear Algebra,CORE,Linear Algebra -2,4
+Applied Data and Computer Science,1,Leadership,ELECTIVE,Leadership,4
+Cyber Security,1,IT Fundamentals,Technology & Applications,IT Technology Essentials,4
+Cyber Security,1,Security Architecture,Enterprise Security,Enterprise Security Architecture,4
+Cyber Security,1,Identity Management,Enterprise Security,Secure Identity Management,4
+Cyber Security,1,Network Security,Enterprise Security,Security of Systems and Networks,4
+Cyber Security,1,Security Audit,Enterprise Security,Information Security Audit,4
+Cyber Security,1,Incident Management,Enterprise Security,Information Security Incident Management,4
+Cyber Security,1,Legal,Enterprise Security,Legal Aspects of Information Security,4
+Cyber Security,1,Secure Development,Application Security,Secure Software Development,4
+Cyber Security,1,Linux,Application Security,Linux Administration & Security,4
+Cyber Security,1,Security Analysis,Application Security,Security Analysis of Networked Objects,4
+Cyber Security,1,Forensics,Application Security,Computer Forensics,4
+Cyber Security,1,Penetration Testing,Application Security,Vulnerability Analysis Penetration Testing Ethical Hacking,4
+Cyber Security,1,Enterprise Systems,Application Security,Enterprise Information Systems,4
+Cyber Security,1,Threat Hunting,Application Security,Security Operations Center and Cyber Threat Hunting,4
+Cyber Security,1,Mobile Security,Application Security,Mobile and Wireless Security,6
+Cyber Security,1,Hardware Security,Application Security,Hardware Security,6
+Cyber Security,1,Project Management,Year-end project,Year-end project,8
+Front-End Development,1,Entrepreneurship,Product,From Zero to Hero,4
+Front-End Development,1,Programming,Introduction to programming,Programming I,4
+Front-End Development,1,Algorithms,Introduction to programming,Algorithms,4
+Front-End Development,1,Web History,Introduction to programming,History of Web — From Present to Future,4
+Front-End Development,1,Shell,Git,Introduction to programming,Shell Basics and GIT as a Version-Control System,4
+Front-End Development,1,Design,Introduction to interactive web design,Design I,4
+Front-End Development,1,Programming,Introduction to interactive web design,Programming II,4
+Front-End Development,1,Design,Introduction to interactive web design,Design II,4
+Front-End Development,1,CSS,Introduction to interactive web design,CSS Foundation,4
+Front-End Development,1,Animations,Introduction to interactive web design,Animations and Motion on the Web,4
+Front-End Development,1,Programming,Advanced web programming,Programming III,4
+Front-End Development,1,Web Tools,Development as a career,Web Tooling and Modern Setup,4
+Front-End Development,1,Collaboration,Development as a career,Effective Teamwork Collaboration,4
+Front-End Development,1,Ethics,Development as a career,Ethics on the Web,4
+Front-End Development,1,Project Management,Development as a career,Project Management and Agile Methodologies,4
+Front-End Development,1,English,Development as a career,English for the Industry,4
+Front-End Development,1,Project Management,Year-end project,Client Project,8
+Front-End Development,1,Project Management,Year-end project,Personal Project,8
+Data Science,1,Entrepreneurship,Product,From Zero to Hero,4
+Data Science,1,Combinatorics,Mathematical Foundations for Computer Science Algorithms,Combinatorics & Graphs - 1,5
+Data Science,1,C/C++,Foundations of Programming,Foundations of Programming: C/C++,5
+Data Science,1,Calculus,Mathematical Foundations for Computer Science Algorithms,Calculus – 1,5
+Data Science,1,Mathematical Logic,Mathematical Foundations for Computer Science Algorithms,Foundations of Mathematical Logic,5
+Data Science,1,Linear Algebra,Mathematical Foundations for Computer Science Algorithms,Linear Algebra -1,5
+Data Science,1,Algorithms,Mathematical Foundations for Computer Science Algorithms,Algorithms and Data Structures – 1,5
+Data Science,1,Combinatorics,Mathematical Foundations for Computer Science Algorithms,Combinatorics and Graphs - 2,5
+Data Science,1,Python,Foundations of Programming,Object Oriented Programming: Python,5
+Data Science,1,Calculus,Mathematical Foundations for Computer Science Algorithms,Calculus – 2,5
+Data Science,1,Algorithms,Mathematical Foundations for Computer Science Algorithms,Algorithms and Data Structures – 2,5
+Data Science,1,Linear Algebra,Mathematical Foundations for Computer Science Algorithms,Linear Algebra -2,5
+Data Science,2,Text Mining,Applications,Text Mining,5
+Data Science,2,Software Development,Programming,Software Development Process,5
+Data Science,2,Computational Genomics,Interdisciplinary Training,Computational Genomics,5
+Data Science,2,Image Analysis,Applications,Image Analysis,5
+Data Science,2,Project Management,Applications,Technical Project Management,5
+Data Science,2,Web Graphs,Applications,Web-graphs,5
+Data Science,2,Data Visualization,Applications,Data Visualization,5
+Data Science,2,Neural Networks,Applications,Neural Networks,5
+Data Science,2,Leadership,Applications,Leadership and Group Dynamics,5
+Data Science,2,Technical Writing,Applications,Writing Documentation TeX JavaDoc Academic,5
+Data Science,2,Interaction Design,Interdisciplinary Training,Introduction to Interaction Design,5
+Data Science,2,Project Management,Capstone Project,Capstone Project - 2,3
+Data Science,2,Professional Development,Seminars & Workshops,Seminars & Workshops - 2,1
+Computer Science Masters,1,Combinatorics,Mathematical Foundations of Computer Science - Algorithms,Combinatorics and Graph Theory,5
+Computer Science Masters,1,C++,Programming and Tools for Computer Scientists,Object-Oriented Programming (C++),5
+Computer Science Masters,1,Algorithms,Mathematical Foundations of Computer Science - Algorithms,Data Structures and Algorithms,5
+Computer Science Masters,1,Functional Programming,Programming and Tools for Computer Scientists,Functional Programming,5
+Computer Science Masters,1,Probability,Statistics,Mathematical Foundations of Computer Science - Algorithms,Theory of Probability and Statistics,5
+Computer Science Masters,1,Unix,Programming and Tools for Computer Scientists,Practical Unix,5
+Computer Science Masters,1,Interaction Design,Communication & Interdisciplinary,Introduction to Interaction Design,5
+Computer Science Masters,1,Database,Programming and Tools for Computer Scientists,Advanced Databases,5
+Computer Science Masters,1,Machine Learning,Applications & Tools,Master's Machine Learning,5
+Computer Science Masters,1,Python,Programming and Tools for Computer Scientists,Python,5
+Computer Science Masters,1,Networking,Programming and Tools for Computer Scientists,Networks,5
+Computer Science Masters,1,Java,Programming and Tools for Computer Scientists,Java Programming,5
+Computer Science Masters,1,Operating Systems,Programming and Tools for Computer Scientists,Operating Systems,5
+Computer Science Masters,1,R,Programming and Tools for Computer Scientists,R,5
+Computer Science Masters,1,Robotics,Applications & Tools,Robotics,5
+Computer Science Masters,1,Leadership,Communication & Interdisciplinary,Leadership and Group Dynamics,4
+Computer Science Masters,1,Technical Writing,Communication & Interdisciplinary,Technical Writing and Presenting,4
+Computer Science Masters,1,Complexity Theory,Mathematical Foundations of Computer Science - Algorithms,Complexity Theory,5
+Computer Science Masters,1,Project Management,Communication & Interdisciplinary,Technical Project Management,4
+Computer Science Masters,1,Bioinformatics,Applications & Tools,Bioinformatics,5
+Computer Science Masters,1,Data Analysis,Applications & Tools,Statistical Data Analysis,5
+Computer Science Masters,1,Project Management,Capstone Project,Capstone Project-1,2
+Computer Science Masters,1,Professional Development,Seminars & Workshops,Seminars & Workshops-1,1
+Computer Science Masters,2,Parallel Computing,Programming - Operating Systems,Parallel and Distributed Computing,5
+Computer Science Masters,2,Automata Theory,Mathematical Foundations for Computer Science - Algorithms - Theoretical Computer Science,Automata Theory - Languages - and Computation,5
+Computer Science Masters,2,Software Design,Programming - Operating Systems,Software Design,5
+Computer Science Masters,2,Cryptography,Mathematical Foundations for Computer Science - Algorithms - Theoretical Computer Science,Foundations of Cryptography,5
+Computer Science Masters,2,Computer Vision,Applications & Tools,Computer Vision,5
+Computer Science Masters,2,Computational Geometry,Mathematical Foundations for Computer Science - Algorithms - Theoretical Computer Science,Computational Geometry,5
+Computer Science Masters,2,Compilers,Programming - Operating Systems,Compilers,5
+Computer Science Masters,2,Software Engineering,Programming - Operating Systems,Software Engineering,5
+Computer Science Masters,2,Deep Learning,Applications & Tools,Neural Networks and Deep Learning,5
+Computer Science Masters,2,Optimization,Mathematical Foundations for Computer Science - Algorithms - Theoretical Computer Science,Discrete Optimization,5
+Computer Science Masters,2,Virtualization,Programming - Operating Systems,Virtualization and Java VM,5
+Computer Science Masters,2,Optimization,Mathematical Foundations for Computer Science - Algorithms - Theoretical Computer Science,Nonlinear Optimization,5
+Computer Science Masters,2,Computer Graphics,Applications & Tools,Computer Graphics,5
+Computer Science Masters,2,IT Management,Communication & Interdisciplinary,Information Technology Management,4
+Computer Science Masters,2,Big Data,Applications & Tools,Big Data Analysis,5
+Computer Science Masters,2,Information Theory,Mathematical Foundations for Computer Science - Algorithms - Theoretical Computer Science,Information Theory,5
+Computer Science Masters,2,Mobile Development,Applications & Tools,Mobile Application Development,5
+Computer Science Masters,2,Software Testing - Verification and Validation,Programming - Operating Systems,5
+Computer Science Masters,2,Data Visualization,Applications & Tools,Data Visualization,5
+Computer Science Masters,2,Algorithms in Bioinformatics,Applications & Tools,5
+Computer Science Masters,2,Spectral Graph Analysis and Data Science Applications,Applications & Tools,5
+Computer Science Masters,2,Project Management,Capstone Project,Capstone Project-2,3
+Computer Science Masters,2,Professional Development,Seminars & Workshops,Seminars & Workshops-2,1
