@@ -1,26 +1,33 @@
-setuptools>=69.0.3
-wheel>=0.42.0
-build>=1.0.0
+# Core build tools
+setuptools>=75.1.0
+wheel>=0.45.0
+build>=1.3.0
 
---extra-index-url https://download.pytorch.org/whl/cpu
-
+# Networking & scraping
 requests==2.31.0
 beautifulsoup4==4.12.2
-pandas==1.5.3
-numpy==1.24.3
-scikit-learn==1.2.2
-python-dotenv==1.0.0
-pyyaml==6.0
+lxml==4.9.3
+
+# Data science
+numpy==1.26.4
+pandas==2.0.3
+scikit-learn==1.3.2
+tqdm==4.66.1
+
+# Machine Learning / NLP
 torch==2.0.1+cpu
-transformers==4.30.2
-openai==1.3.9
-faker==18.4.0
+transformers==4.36.2
 nltk==3.8.1
 textblob==0.17.1
-lxml==4.9.2
-tqdm==4.65.0
+faker==19.3.0
+
+# Web framework
 fastapi==0.104.1
 uvicorn[standard]==0.24.0
 python-multipart==0.0.6
-sqlalchemy==2.0.20
-pydantic==2.5.0
+
+# Database & config
+sqlalchemy==2.0.23
+pydantic==2.5.3
+python-dotenv==1.0.0
+pyyaml==6.0.1
